@@ -7,3 +7,4 @@ ___________
 Firstly, I had to learn the following things about HTML...
 * Basics of HTML.
 * Semantic HTML.
+* Commanly used HTML tags <>tag</>.
