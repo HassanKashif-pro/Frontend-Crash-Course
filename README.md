@@ -12,7 +12,7 @@ Firstly, I had to learn the following things about
 * DOM (Document Object Model)
 * Accesibility of HTML.
 * META tags in HTML.
-
+_________
 Secondly, We are going to go through the basics of 
 ## CSS :
 * Introduction to CSS 
