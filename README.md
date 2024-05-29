@@ -4,7 +4,8 @@ Day One - Started off with the HTML crash course as it was the part of the front
 
 This is a course on 'algoexpert', in the frontend section.
 ___________
-Firstly, I had to learn the following things about # HTML : 
+Firstly, I had to learn the following things about 
+## HTML : 
 * Basics of HTML.
 * Semantic HTML.
 * Commanly used HTML tags <>tag</>.
@@ -12,5 +13,6 @@ Firstly, I had to learn the following things about # HTML :
 * Accesibility of HTML.
 * META tags in HTML.
 
-Secondly, We are going to go through the basics of # CSS :
+Secondly, We are going to go through the basics of 
+## CSS :
 * Introduction to CSS 
