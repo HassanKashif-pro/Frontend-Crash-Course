@@ -9,3 +9,4 @@ Firstly, I had to learn the following things about HTML...
 * Semantic HTML.
 * Commanly used HTML tags <>tag</>.
 * DOM (Document Object Model)
+* Accesibility of HTML.
