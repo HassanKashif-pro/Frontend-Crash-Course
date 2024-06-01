@@ -6,6 +6,7 @@ This is a course on 'algoexpert', in the frontend section.
 ___________
 Firstly, I had to learn the following things about 
 ## HTML : 
+HTML is a comparatively an easy to learn language with easy syntax which a user can learn and memorise in their first run and this course is all about mostly used tags and features in HTML which a programmer will be using in his journey, despite the fact that this is a simple and easy language it is drasticaly used in webpages, this signifies the importance of this language.
 * Basics of HTML.
 * Semantic HTML.
 * Commanly used HTML tags <>tag</>.
