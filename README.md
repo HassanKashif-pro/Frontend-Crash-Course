@@ -15,4 +15,5 @@ Firstly, I had to learn the following things about
 _________
 Secondly, We are going to go through the basics of 
 ## CSS :
+In this Crash Course we will now only be learning CSS (Cascading Style Sheet) but rather we will dive seep into the newer technologies and freatures being added to CSS, as this language is sometimes refered as an annoying or hard to use language but that is all because of lack of correct knowledge about this language. So lets get started with this CSS course in which we have 20 diffrent TOPICS or Videos which we will watch in order to complete this CSS topic for this frontend Crash Course.
 * Introduction to CSS 
