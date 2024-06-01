@@ -20,3 +20,5 @@ In this Crash Course we will now only be learning CSS (Cascading Style Sheet) bu
 * Introduction to CSS
 * Basics of CSS
   | This include the Declaration block, selector, ruleset and finaly the link tag to link HTML and CSS.
+* Selectors
+* | Selectors is a pattern to which the attributes should be applied. eg. ID selectors, Class Selectors, Attribute Selector and Type Selctor.
