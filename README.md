@@ -23,3 +23,4 @@ In this Crash Course we will now only be learning CSS (Cascading Style Sheet) bu
 * Selectors
   | Selectors is a pattern to which the attributes should be applied. eg. ID selectors, Class Selectors, Attribute Selector and Type Selctor.
 * Pseudo Classes and Elements
+  | Pseudo classes like eg: focued, link, visited or nth-child etc...
