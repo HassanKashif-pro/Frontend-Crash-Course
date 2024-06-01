@@ -27,3 +27,4 @@ In this Crash Course we will now only be learning CSS (Cascading Style Sheet) bu
   | Pseudo ELEMENTS eg: before, after like first-letter or First-line etc...
 * Selector Specifity
   | Calculating Specifity
+  | ! Important Rule
