@@ -28,3 +28,5 @@ In this Crash Course we will now only be learning CSS (Cascading Style Sheet) bu
 * Selector Specifity
   | Calculating Specifity
   | ! Important Rule
+* CSS Untis
+  | Like rem, em, px and for color we have RGB, HEx etc.
