@@ -32,3 +32,5 @@ In this Crash Course we will now only be learning CSS (Cascading Style Sheet) bu
   | Like rem, em, px and for color we have RGB, HEx etc.
 * Block vs. Inline
   | Two Elements used to show paragraphs or text with special props.
+* Box Model
+  | This is am important topic to understand Box Models as they are used frequently.
