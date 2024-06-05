@@ -34,3 +34,5 @@ In this Crash Course we will now only be learning CSS (Cascading Style Sheet) bu
   | Two Elements used to show paragraphs or text with special props.
 * Box Model
   | This is am important topic to understand Box Models as they are used frequently.
+## JavaScript :
+JavaScript is one of the three most fundamental languages that make up a webpage and this is a paradigm language mean it contains OOP, functional, sturtural and Event-driven pragrammig...All used for specific tasks where they are suited the best.
