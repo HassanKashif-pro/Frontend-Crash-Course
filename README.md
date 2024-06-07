@@ -41,3 +41,4 @@ JavaScript is one of the three most fundamental languages that make up a webpage
  | All this is just what is JS and how and where it is used.
 * Basics of JS
  | This includes what is paradigm in JS, ECMA Script and Primitive Types such as string, null, boolean, number and many more...
+ | Objects, Strings, Loops, Functions, Error Handling and Conditionals etc.
