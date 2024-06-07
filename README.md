@@ -43,3 +43,4 @@ JavaScript is one of the three most fundamental languages that make up a webpage
  | This includes what is paradigm in JS, ECMA Script and Primitive Types such as string, null, boolean, number and many more...
  | Objects, Strings, Loops, Functions, Error Handling and Conditionals etc.
 * Variables and Scoping in JS
+* Arrays
