@@ -35,7 +35,9 @@ In this Crash Course we will now only be learning CSS (Cascading Style Sheet) bu
 * Box Model
   | This is am important topic to understand Box Models as they are used frequently.
 * Box Sizing
-  | 
+  | The box sizing is used in case of paddings and boundries.
+* Position
+  | positionning is important to know what and where and element or Box is on the screen.
 ____________________________
 ## JavaScript :
 JavaScript is one of the three most fundamental languages that make up a webpage and this is a paradigm language mean it contains OOP, functional, sturtural and Event-driven pragrammig...All used for specific tasks where they are suited the best.
