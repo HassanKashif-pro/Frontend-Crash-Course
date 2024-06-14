@@ -52,3 +52,4 @@ JavaScript is one of the three most fundamental languages that make up a webpage
  | Objects, Strings, Loops, Functions, Error Handling and Conditionals etc.
 * Variables and Scoping in JS
 * Arrays
+* Objects
