@@ -56,3 +56,6 @@ JavaScript is one of the three most fundamental languages that make up a webpage
 * Arrays
 * Objects
 * Equality And Type Coersion
+________________________
+## React :
+React is a frontend NodeJS Framework working exeptional for frontend development. In todays world this is the most commonly used frotnend tool.
