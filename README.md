@@ -61,3 +61,5 @@ ________________________
 React is a frontend NodeJS Framework working exeptional for frontend development. In todays world this is the most commonly used frotnend tool.
 * Introduction to React :
    React is a declarative, component based library that allows developers to build reusable UI components and It follows the Virtual DOM.
+* React Basics :
+   React is just like HTML writen in tags and custome libraries are used.
