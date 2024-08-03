@@ -66,4 +66,4 @@ React is a frontend NodeJS Framework working exeptional for frontend development
 * React Props :
    In React, "props" (short for properties) are used to pass data from one component to another. IT is basicaly just like a type in TS.
 * Event-driven Programming :
-   
+   This is like the thing which is has like event listeners and synthetic programming.
