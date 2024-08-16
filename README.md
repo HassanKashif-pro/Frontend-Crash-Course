@@ -43,7 +43,8 @@ In this Crash Course we will now only be learning CSS (Cascading Style Sheet) bu
 * Flex Box
   | Finally I can easily position things, it is commanly used and usefull
 * CSS Grid
-  | 
+  |
+ * Working With Images 
 ____________________________
 ## JavaScript :
 JavaScript is one of the three most fundamental languages that make up a webpage and this is a paradigm language mean it contains OOP, functional, sturtural and Event-driven pragrammig...All used for specific tasks where they are suited the best.
