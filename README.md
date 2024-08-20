@@ -46,6 +46,7 @@ In this Crash Course we will now only be learning CSS (Cascading Style Sheet) bu
   |
  * Working With Images
  * CSS Inheritance
+ * Animations
 ____________________________
 ## JavaScript :
 JavaScript is one of the three most fundamental languages that make up a webpage and this is a paradigm language mean it contains OOP, functional, sturtural and Event-driven pragrammig...All used for specific tasks where they are suited the best.
